@@ -1,0 +1,54 @@
+h1 {
+    font-size: 43px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+
+  body {
+    background-color: #96bbbb;
+    width: 100%;
+    
+  }
+
+  .description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .linknone {
+    
+    border-radius: 10%;
+  }
+
+  #links {
+  font-style: italic;
+  font-size: 20px;
+  line-height: 10px;
+  }
+
+  #linksty {
+    text-decoration: none;
+    color: blue;
+    }
+  
+    .centerP {
+      text-align: center;
+      
+    }
+
+#moldura {
+  padding: 10px;
+  background-color: #376E85;
+  border-radius: 50%;
+  
+}
+
+
+
+#descricao p{
+  display: inline-block
+}
+
+
